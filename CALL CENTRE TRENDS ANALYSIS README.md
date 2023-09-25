@@ -1,7 +1,7 @@
 CALL CENTRE TRENDS ANALYSIS 
 
-SITUATION - The call center manager initiated a project by providing a dataset with the objective of obtaining a precise and 
-              comprehensive understanding of long-term trends in both customer and agent behavior. 
+SITUATION - The call centre manager initiated a project by providing a dataset with the objective of obtaining a precise and 
+              comprehensive understanding of long-term trends in both customer and agent behaviour. 
 
 TASK -  Create a comprehensive Power BI dashboard for managers that accurately portrays essential Key Performance Indicators (KPIs) and 
         metrics extracted from the dataset.
